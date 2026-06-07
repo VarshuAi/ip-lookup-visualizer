@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Renders geographical data points, offsets, and stats from target IP queries.
+  name: ip-lookup-visualizer version: 1.0 type: Repository author: VarshuAi description: >   Renders geographical data points, offsets, and stats from target IP queries. primary_tech: CSS
 primary_tech: CSS
 ```
 
